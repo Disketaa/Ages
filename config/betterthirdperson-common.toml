@@ -2,7 +2,7 @@
 aimPlayerOnInteract = true
 #How long player will be aligned to camera after left & right clicks
 #Range: 10 ~ 200
-aimDuration = 40
+aimDuration = 10
 #Angle in degrees within the player will slightly follow camera yaw (while standing still)
 #Range: 0 ~ 90
 followYaw = 45
