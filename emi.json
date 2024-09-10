@@ -1,0 +1,38 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:quark:abacus{boundPosX:-65,boundPosY:-999,boundPosZ:11}",
+    "item:minecraft:raw_gold",
+    "item:minecraft:raw_gold_block",
+    "item:quark:raw_gold_bricks",
+    "item:quark:thatch",
+    "item:tfc:thatch",
+    "item:minecraft:cobblestone",
+    "item:quark:sturdy_stone",
+    "item:create:white_seat",
+    "item:quark:white_stool",
+    "item:quark:shingles",
+    "item:quark:moss_paste",
+    "item:quark:midori_block",
+    "item:minecraft:paper",
+    "item:quark:paper_wall",
+    "item:quark:jungle_hedge",
+    "item:quark:oak_hedge",
+    "item:quark:birch_hedge",
+    "item:quark:red_blossom_hedge",
+    "item:quark:yellow_blossom_hedge",
+    "item:quark:orange_blossom_hedge",
+    "item:quark:lavender_blossom_hedge",
+    "item:quark:blue_blossom_hedge",
+    "item:quark:white_framed_glass",
+    "item:quark:dirty_glass"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
