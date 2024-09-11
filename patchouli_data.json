@@ -4,7 +4,8 @@
   "bookData": {
     "tfc:field_guide": {
       "viewedEntries": [
-        "tfc:getting_started/introduction"
+        "tfc:getting_started/introduction",
+        "tfc:the_world/geology"
       ],
       "bookmarks": [],
       "completedManualQuests": []

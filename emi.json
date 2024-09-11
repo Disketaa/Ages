@@ -1,6 +1,9 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:item_frame",
+    "item:minecraft:acacia_stairs",
+    "item:minecraft:jungle_pressure_plate",
     "item:quark:abacus{boundPosX:-65,boundPosY:-999,boundPosZ:11}",
     "item:minecraft:raw_gold",
     "item:minecraft:raw_gold_block",
