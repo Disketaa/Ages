@@ -5,7 +5,12 @@
     "tfc:field_guide": {
       "viewedEntries": [
         "tfc:getting_started/introduction",
-        "tfc:the_world/geology"
+        "tfc:the_world/geology",
+        "tfc:getting_started/building_materials",
+        "tfc:getting_started/a_place_to_sleep",
+        "tfc:getting_started/pottery",
+        "tfc:the_world/ores_and_minerals",
+        "tfc:getting_started/finding_ores"
       ],
       "bookmarks": [],
       "completedManualQuests": []

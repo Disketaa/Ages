@@ -1,6 +1,38 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "tfc:seeds/carrot",
+        "amount": 4
+      }
+    }
+  ],
   "lookup_history": [
+    "item:tfc:wood/chest/acacia",
+    "item:tfc:wood/trapped_chest/acacia",
+    "item:minecraft:chest",
+    "item:tfc:wood/planks/acacia_workbench",
+    "#item:tfc:workbenches",
+    "item:minecraft:crafting_table",
+    {
+      "type": "item",
+      "id": "tfc:pumpkin",
+      "amount": 4
+    },
+    "item:tfc:medium_raw_hide",
+    "item:tfc:ceramic/jug",
+    {
+      "type": "item",
+      "id": "tfc:straw",
+      "amount": 25
+    },
+    {
+      "type": "item",
+      "id": "tfc:thatch",
+      "amount": 2
+    },
+    "item:tfc:stone/axe/sedimentary{Damage:0}",
     "item:minecraft:item_frame",
     "item:minecraft:acacia_stairs",
     "item:minecraft:jungle_pressure_plate",
@@ -9,7 +41,6 @@
     "item:minecraft:raw_gold_block",
     "item:quark:raw_gold_bricks",
     "item:quark:thatch",
-    "item:tfc:thatch",
     "item:minecraft:cobblestone",
     "item:quark:sturdy_stone",
     "item:create:white_seat",
@@ -30,7 +61,19 @@
     "item:quark:white_framed_glass",
     "item:quark:dirty_glass"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "tfc:crafting/wood/oak_chest",
+    "tfc:crafting/wood/oak_lumber_log",
+    "tfc:crafting/wood/maple_workbench",
+    "tfc:crafting/wood/maple_planks",
+    "tfc:crafting/wood/maple_lumber_log",
+    "tfc:crafting/metal/saw/copper",
+    "tfc:crafting/stone/shovel_igneous_extrusive",
+    "tfc:crafting/wood/stick_from_twigs",
+    "tfc:crafting/stone/knife_igneous_extrusive",
+    "tfc:crafting/thatch",
+    "tfc:crafting/stone/axe_igneous_extrusive"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},
